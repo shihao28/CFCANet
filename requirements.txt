@@ -1,0 +1,11 @@
+--extra-index-url https://download.pytorch.org/whl/cu113
+torch==1.12.1+cu113
+--extra-index-url https://download.pytorch.org/whl/cu113
+torchvision==0.13.1+cu113
+pandas
+grad-cam
+scikit-image
+timm
+thop
+pthflops
+git+https://github.com/mapillary/inplace_abn.git@v1.0.11
